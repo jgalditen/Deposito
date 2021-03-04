@@ -19,7 +19,7 @@ public class Main {
     
     static void operativa_cuenta(CCuenta cuenta1, float cantidad) {
     	try {
-            cuenta1.retirar(2300);
+            cuenta1.retirar(2000);
         } catch (Exception e) {
             System.out.print("Fallo al retirar");
         }

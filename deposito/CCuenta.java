@@ -16,7 +16,7 @@ public class CCuenta {
         cuenta=cue;
         saldo=sal;
     }
-
+ 
     public double estado()
     {
         return saldo;
